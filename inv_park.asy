@@ -6,6 +6,7 @@ LINE Normal 0 64 -96 64
 LINE Normal 32 0 1 -33
 LINE Normal 32 33 32 0
 LINE Normal 0 64 32 33
+TEXT -87 -48 Left 2 Inv. Park
 PIN 32 0 RIGHT 10
 PINATTR PinName A
 PINATTR SpiceOrder 1

@@ -7,6 +7,7 @@ LINE Normal 32 -16 0 -32
 LINE Normal 32 17 32 -16
 LINE Normal 32 49 32 17
 LINE Normal 0 64 32 49
+TEXT -87 87 Left 2 3 PH Gen
 PIN -96 32 LEFT 10
 PINATTR PinName T
 PINATTR SpiceOrder 1
